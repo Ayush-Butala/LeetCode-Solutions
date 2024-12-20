@@ -34,5 +34,5 @@ Each problem is categorized by difficulty and topic for easy navigation.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/LeetCode-Solutions.git
+   git clone  https://github.com/Ayush-Butala/LeetCode-Solutions.git
    ```
