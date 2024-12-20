@@ -18,13 +18,13 @@ Each problem is categorized by difficulty and topic for easy navigation.
 ### Easy
 
 1. [2239. Finding Closest to Zero](https://leetcode.com/problems/find-closest-number-to-zero/description/)  
-   **Solution**: [2239_FindingClosestToZero.cpp](C:\Users\AYUSH BUTALA\OneDrive\Desktop\Coding\LeetCode Solutions\Easy\2239_FindingClosestToZero.cpp)
+   **Solution**: [2239_FindingClosestToZero.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/2239_FindingClosestToZero.cpp)
 
    - **Input**: `nums = {-4, -2, 1, 4, 8}`
    - **Output**: `1`
 
 2. [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)  
-   **Solution**: [1929_ConcatenationOfArray.cpp](C:\Users\AYUSH BUTALA\OneDrive\Desktop\Coding\LeetCode Solutions\Easy\1929_ConcatenationOfArray.cpp)
+   **Solution**: [1929_ConcatenationOfArray.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/1929_ConcatenationOfArray.cpp)
    - **Input**: `nums = {1, 2, 1}`
    - **Output**: `{1, 2, 1, 1, 2, 1}`
 
