@@ -25,10 +25,18 @@ Each problem is categorized by difficulty and topic for easy navigation.
 
 2. [1929. Concatenation of Array](https://leetcode.com/problems/concatenation-of-array/description/)  
    **Solution**: [1929_ConcatenationOfArray.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/1929_ConcatenationOfArray.cpp)
+
    - **Input**: `nums = {1, 2, 1}`
    - **Output**: `{1, 2, 1, 1, 2, 1}`
 
----
+3. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)  
+   **Solution** [242_ValidAnagram.cpp]()
+
+   - **Input**:  
+     `s = "anagram", t = "nagaram"`
+
+   - **Output**:  
+     `true`
 
 ## How to Use
 
