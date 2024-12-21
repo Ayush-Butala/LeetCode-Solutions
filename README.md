@@ -30,7 +30,7 @@ Each problem is categorized by difficulty and topic for easy navigation.
    - **Output**: `{1, 2, 1, 1, 2, 1}`
 
 3. [242. Valid Anagram](https://leetcode.com/problems/valid-anagram/)  
-   **Solution** [242_ValidAnagram.cpp]()
+   **Solution** [242_ValidAnagram.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/242_ValidAnagram.cpp)
 
    - **Input**:  
      `s = "anagram", t = "nagaram"`
