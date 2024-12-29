@@ -38,6 +38,13 @@ Each problem is categorized by difficulty and topic for easy navigation.
    - **Output**:  
      `true`
 
+4. [26. Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
+   **Solution**[26_RemoveDuplicates.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/26_RemoveDuplicatesfromSortedArray.cpp)
+
+   - **Input**: `nums = [1,1,2]`
+   - **Output**: `2`
+   - **Explanation**: The function should return `2`, and the first two elements of the array should be `1` and `2`. Note that the solution doesn't need to worry about the elements after the return value.
+
 ## How to Use
 
 1. Clone the repository:
