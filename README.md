@@ -45,6 +45,13 @@ Each problem is categorized by difficulty and topic for easy navigation.
    - **Output**: `2`
    - **Explanation**: The function should return `2`, and the first two elements of the array should be `1` and `2`. Note that the solution doesn't need to worry about the elements after the return value.
 
+5. [7. Reverse Integer](https://leetcode.com/problems/reverse-integer/)
+   **Solution**[7_ReverseInteger.cpp]()
+
+   - **Input**: `x = 123`
+   - **Output**: `321`
+   - **Explanation**: Reverses the digits of the input integer. Returns 0 if the reversed integer overflows.
+
 ## How to Use
 
 1. Clone the repository:
