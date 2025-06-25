@@ -59,6 +59,13 @@ Each problem is categorized by difficulty and topic for easy navigation.
    - **Output**: `true`
    - **Explanation**: The number reads the same forward and backward.
 
+7. [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)  
+   **Solution**: [125_ValidPalindrome.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/125_ValidPalindrome.cpp)
+
+   - **Input**: `s = "A man, a plan, a canal: Panama"`
+   - **Output**: `true`
+   - **Explanation**: "amanaplanacanalpanama" is a palindrome.
+
 ---
 
 ## How to Use
