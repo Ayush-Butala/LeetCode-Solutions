@@ -67,7 +67,7 @@ Each problem is categorized by difficulty and topic for easy navigation.
    - **Explanation**: "amanaplanacanalpanama" is a palindrome.
 
 8. [509. Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)  
-   **Solution**: [509_FibonacciNumber.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/509_FibonacciNumber.cpp)
+   **Solution**: [509_FibonacciNumber.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/509_FibonnaciNumber.cpp)
 
    - **Input**: `n = 2`
    - **Output**: `1`
