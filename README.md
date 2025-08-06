@@ -73,6 +73,22 @@ Each problem is categorized by difficulty and topic for easy navigation.
    - **Output**: `1`
    - **Explanation**: F(2) = F(1) + F(0) = 1 + 0 = 1.
 
+9. [217. Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)  
+   **Solution**: [217_ContainsDuplicate.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/217_ContainsDuplicate.cpp)
+
+   - **Input**: `[1,2,3,1]`
+   - **Output**: `true`
+   - **Explanation**: The element 1 occurs at the indices 0 and 3.
+
+10. [189. Rotate Array](https://leetcode.com/problems/rotate-array/)  
+    **Solution**: [509_FibonacciNumber.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Medium/189_RotateArray.cpp)
+
+    - **Input**: `nums = [1,2,3,4,5,6,7], k = 3`
+    - **Output**: `[5,6,7,1,2,3,4]`
+    - **Explanation**: rotate 1 steps to the right: [7,1,2,3,4,5,6]  
+      rotate 2 steps to the right: [6,7,1,2,3,4,5]  
+      rotate 3 steps to the right: [5,6,7,1,2,3,4]
+
 ---
 
 ## How to Use
