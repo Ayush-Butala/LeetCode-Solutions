@@ -89,6 +89,12 @@ Each problem is categorized by difficulty and topic for easy navigation.
       rotate 2 steps to the right: [6,7,1,2,3,4,5]  
       rotate 3 steps to the right: [5,6,7,1,2,3,4]
 
+11. [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)  
+    **Solution**: [509_FibonacciNumber.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/283_MoveZeros.cpp)
+
+    - **Input**: `nums = [0,1,0,3,12]`
+    - **Output**: `[1,3,12,0,0]`
+
 ---
 
 ## How to Use
