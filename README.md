@@ -81,7 +81,7 @@ Each problem is categorized by difficulty and topic for easy navigation.
    - **Explanation**: The element 1 occurs at the indices 0 and 3.
 
 10. [189. Rotate Array](https://leetcode.com/problems/rotate-array/)  
-    **Solution**: [509_FibonacciNumber.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Medium/189_RotateArray.cpp)
+    **Solution**: [189_RotateArray.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Medium/189_RotateArray.cpp)
 
     - **Input**: `nums = [1,2,3,4,5,6,7], k = 3`
     - **Output**: `[5,6,7,1,2,3,4]`
