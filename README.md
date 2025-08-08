@@ -95,6 +95,20 @@ Each problem is categorized by difficulty and topic for easy navigation.
     - **Input**: `nums = [0,1,0,3,12]`
     - **Output**: `[1,3,12,0,0]`
 
+12. [349. Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)  
+    **Solution**: [349_IntersectionofTwoArrays.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/349_IntersectionofTwoArrays.cpp)
+
+    - **Input**: `nums1 = [4,9,5], nums2 = [9,4,9,8,4]`
+    - **Output**: `[9,4]`
+    - **Explanation**: [4,9] is also accepted.
+
+13. [268. Missing Number](https://leetcode.com/problems/missing-number/)  
+    **Solution**: [268_MissingNumber.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/268_MissingNumber.cpp)
+
+    - **Input**: `nums = [0,1]`
+    - **Output**: `2`
+    - **Explanation**: n = 2 since there are 2 numbers, so all numbers are in the range [0,2]. 2 is the missing number in the range since it does not appear in nums.
+
 ---
 
 ## How to Use
