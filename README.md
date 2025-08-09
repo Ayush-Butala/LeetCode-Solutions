@@ -90,7 +90,7 @@ Each problem is categorized by difficulty and topic for easy navigation.
       rotate 3 steps to the right: [5,6,7,1,2,3,4]
 
 11. [283. Move Zeros](https://leetcode.com/problems/move-zeroes/)  
-    **Solution**: [509_FibonacciNumber.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/283_MoveZeros.cpp)
+    **Solution**: [283_MoveZeros.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/283_MoveZeros.cpp)
 
     - **Input**: `nums = [0,1,0,3,12]`
     - **Output**: `[1,3,12,0,0]`
@@ -108,6 +108,19 @@ Each problem is categorized by difficulty and topic for easy navigation.
     - **Input**: `nums = [0,1]`
     - **Output**: `2`
     - **Explanation**: n = 2 since there are 2 numbers, so all numbers are in the range [0,2]. 2 is the missing number in the range since it does not appear in nums.
+
+14. [485. Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/)  
+    **Solution**: [485_MaxConsecutiveOnes.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/485_MaxConsecutiveOnesr.cpp)
+
+    - **Input**: `nums = [1,1,0,1,1,1]`
+    - **Output**: `3`
+    - **Explanation**: The first two digits or the last three digits are consecutive 1s. The maximum number of consecutive 1s is 3.
+
+15. [136. Single Number](https://leetcode.com/problems/single-number/)  
+    **Solution**: [136_SingleNumber.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/136_SingleNumber.cpp)
+
+    - **Input**: `nums = [2,2,1]`
+    - **Output**: `1`
 
 ---
 
