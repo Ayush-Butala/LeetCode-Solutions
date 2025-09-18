@@ -123,14 +123,14 @@ Each problem is categorized by difficulty and topic for easy navigation.
     - **Output**: `1`
 
 16. [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)  
-    **Solution**: [69_Sqrt(x).cpp](<https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/69_Sqrt(x).cpp)
+    **Solution**: [69_Sqrt(x).cpp](<https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/69_Sqrt(x).cpp>)
 
     - **Input**: `x = 4`
     - **Output**: `2`
     - **Explanation**: The square root of 4 is 2, so we return 2
 
 17. [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)  
-    **Solution**: [3005_CountElementsWithMaximumFrequency.cpp](<https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/3005_CountElementsWithMaximumFrequency.cpp)
+    **Solution**: [3005_CountElementsWithMaximumFrequency.cpp](<https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/3005_CountElementsWithMaximumFrequency.cpp>)
 
     - **Input**: `nums = [1,2,2,3,1,4]`
     - **Output**: `4`
