@@ -122,6 +122,20 @@ Each problem is categorized by difficulty and topic for easy navigation.
     - **Input**: `nums = [2,2,1]`
     - **Output**: `1`
 
+16. [69. Sqrt(x)](https://leetcode.com/problems/sqrtx/)  
+    **Solution**: [69_Sqrt(x).cpp](<https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/69_Sqrt(x).cpp)
+
+    - **Input**: `x = 4`
+    - **Output**: `2`
+    - **Explanation**: The square root of 4 is 2, so we return 2
+
+17. [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)  
+    **Solution**: [3005_CountElementsWithMaximumFrequency.cpp](<https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/3005_CountElementsWithMaximumFrequency.cpp)
+
+    - **Input**: `nums = [1,2,2,3,1,4]`
+    - **Output**: `4`
+    - **Explanation**: The elements 1 and 2 have a frequency of 2 which is the maximum frequency in the array. So the number of elements in the array with maximum frequency is 4.
+
 ---
 
 ## How to Use
