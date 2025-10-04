@@ -136,6 +136,12 @@ Each problem is categorized by difficulty and topic for easy navigation.
     - **Output**: `4`
     - **Explanation**: The elements 1 and 2 have a frequency of 2 which is the maximum frequency in the array. So the number of elements in the array with maximum frequency is 4.
 
+18. [412. Fizz Buzz](https://leetcode.com/problems/fizz-buzz/)  
+    **Solution**: [412_FizzBuzz.cpp](<https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/412_FizzBuzz.cpp)
+
+    - **Input**: `Input: n = 5`
+    - **Output**: `["1","2","Fizz","4","Buzz"]`
+
 ---
 
 ## How to Use
