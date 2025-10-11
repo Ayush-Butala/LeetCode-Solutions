@@ -130,7 +130,7 @@ Each problem is categorized by difficulty and topic for easy navigation.
     - **Explanation**: The square root of 4 is 2, so we return 2
 
 17. [3005. Count Elements With Maximum Frequency](https://leetcode.com/problems/count-elements-with-maximum-frequency/)  
-    **Solution**: [3005_CountElementsWithMaximumFrequency.cpp](<https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/3005_CountElementsWithMaximumFrequency.cpp>)
+    **Solution**: [3005_CountElementsWithMaximumFrequency.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Easy/3005_CountElementsWithMaximumFrequency.cpp)
 
     - **Input**: `nums = [1,2,2,3,1,4]`
     - **Output**: `4`
@@ -141,6 +141,20 @@ Each problem is categorized by difficulty and topic for easy navigation.
 
     - **Input**: `Input: n = 5`
     - **Output**: `["1","2","Fizz","4","Buzz"]`
+
+19. [2126. Destroying Asteroids](https://leetcode.com/problems/destroying-asteroids/)  
+    **Solution**: [2126_DestroyingAsteroids.cpp](https://github.com/Ayush-Butala/LeetCode-Solutions/blob/main/Medium/2126_DestroyingAsteroids.cpp)
+
+    - **Input**: `mass = 10, asteroids = [3,9,19,5,21]`
+    - **Output**: `true`
+    - **Explanation**: One way to order the asteroids is [9,19,5,3,21]:
+
+- The planet collides with the asteroid with a mass of 9. New planet mass: 10 + 9 = 19
+- The planet collides with the asteroid with a mass of 19. New planet mass: 19 + 19 = 38
+- The planet collides with the asteroid with a mass of 5. New planet mass: 38 + 5 = 43
+- The planet collides with the asteroid with a mass of 3. New planet mass: 43 + 3 = 46
+- The planet collides with the asteroid with a mass of 21. New planet mass: 46 + 21 = 67
+  All asteroids are destroyed.
 
 ---
 
